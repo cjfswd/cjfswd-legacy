@@ -1,0 +1,1 @@
+Não me limito somente ao uso e estudo dessas tecnologias listadas.

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .linkStyle:hover {
+        color: #f2f200 !important;
+    }
+
+    .linkIntern{
+        @apply underline;
+      }
+}

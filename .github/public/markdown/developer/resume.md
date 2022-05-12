@@ -1,0 +1,1 @@
+Eu já desenvolvi com outras linguagens de programação como por exemplo Kotlin e Python mas foi por um curto período de tempo na faculdade, não tenho medo de experimentar outras tecnologias que não domino.

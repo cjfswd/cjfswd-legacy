@@ -1,0 +1,1 @@
+Eu desenvolvo sites e sistemas full stack para web.

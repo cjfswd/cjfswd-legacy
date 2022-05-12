@@ -1,0 +1,1 @@
+Minhas entregas tem foco na testabilidade, responsividade & experiência do usuário/desenvolvedor no geral.

@@ -1,0 +1,1 @@
+Desenvolvedor de software, sempre estou aprendendo e aplicando algo novo em meus projetos.
